@@ -13,6 +13,7 @@ struct ContentView: View {
             .foregroundColor(Color.white)
             .padding()
             .background(.blue)
+            .cornerRadius(/*@START_MENU_TOKEN@*/20.0/*@END_MENU_TOKEN@*/)
     }
 }
 
